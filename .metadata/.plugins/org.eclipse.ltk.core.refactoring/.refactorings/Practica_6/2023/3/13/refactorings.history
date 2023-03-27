@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;modelos.Descuento.java&apos; to &apos;DescuentoFijo.java&apos;&#x0D;&#x0A;- Original project: &apos;Practica_6&apos;&#x0D;&#x0A;- Original element: &apos;modelos.Descuento.java&apos;&#x0D;&#x0A;- Renamed element: &apos;modelos.DescuentoFijo.java&apos;" description="Rename compilation unit &apos;Descuento.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;modelos{Descuento.java" name="DescuentoFijo.java" references="false" stamp="1679723883159" version="1.0"/>
+</session>
